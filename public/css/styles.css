@@ -1,0 +1,54 @@
+body {
+    /* background-image: url('../images/eye-logo.png'); */
+    /* background-size: cover; */
+    /* background-position: 0; */
+    margin: 80px 0 0 0;
+    /* max-width: 900px; */
+    /* align-content: center; */
+    /* justify-content: center; */
+    background-color: black;
+    font-family: 'Verdana', sans-serif;
+}
+.block {
+    width: 100%;
+    height: 80px;
+    margin: 0;
+    border-radius: 50%;
+    text-transform: capitalize;
+}
+h1, form {
+    /* color: rgb(24, 24, 24); */
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* .one {
+    background-color: #fd9728;
+} */
+.one h1 {
+    color: #4d4d4d;
+}
+
+/* .two {
+    background-color: #139617;
+} */
+.two h1 {
+    color: #222222;
+}
+
+/* .three {
+    background-color: #353efd;
+} */
+.three h1 {
+    color: #111111;
+}
+
+.four h1 {
+    color: #0c0c0c;
+}
+
+.donate {
+    /* margin: 40px 0; */
+    padding: 20px 0;
+}
